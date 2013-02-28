@@ -72,4 +72,4 @@ bin
 parts
 develop-eggs
 var
-
+etc/apache2
